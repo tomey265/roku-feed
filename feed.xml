@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>My PD Vault</title>
+    <link>https://example.com</link>
+    <description>Curated public domain films</description>
+
+    <item>
+      <title>Night of the Living Dead (1968)</title>
+      <description>Classic public domain horror film.</description>
+      <media:content url="https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4" type="video/mp4" />
+      <media:thumbnail url="https://archive.org/services/img/night_of_the_living_dead" />
+    </item>
+
+    <item>
+      <title>Placeholder Second Title</title>
+      <description>Swap this for your next verified PD film.</description>
+      <media:content url="https://example.com/video2.mp4" type="video/mp4" />
+      <media:thumbnail url="https://example.com/thumb2.jpg" />
+    </item>
+
+  </channel>
+</rss>
