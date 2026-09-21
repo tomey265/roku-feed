@@ -8,15 +8,15 @@
     <item>
       <title>Night of the Living Dead (1968)</title>
       <description>Classic public domain horror film.</description>
-      <media:content url="https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4" type="video/mp4" />
-      <media:thumbnail url="https://archive.org/services/img/night_of_the_living_dead" />
+      <media:content url="https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_iPhone_512kb.mp4" type="video/mp4" />
+      <media:thumbnail url="https://archive.org/download/Night.Of.The.Living.Dead_1080p/Night.Of.The.Living.Dead_1080p.thumbs/NightOfTheLivingDead_000910.jpg" />
     </item>
 
     <item>
-      <title>Placeholder Second Title</title>
-      <description>Swap this for your next verified PD film.</description>
-      <media:content url="https://example.com/video2.mp4" type="video/mp4" />
-      <media:thumbnail url="https://example.com/thumb2.jpg" />
+      <title>Plan 9 from Outer Space (1959)</title>
+      <description>Ed Wood's cult classic sci-fi/horror film.</description>
+      <media:content url="https://archive.org/download/plan-9-from-outer-space/plan-9-from-outer-space.mp4" type="video/mp4" />
+      <media:thumbnail url="https://archive.org/download/plan-9-from-outer-space/plan-9-from-outer-space_202105.thumbs/plan-9-from-outer-space_000058.jpg" />
     </item>
 
   </channel>
