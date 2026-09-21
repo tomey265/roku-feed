@@ -23,9 +23,9 @@
 
     <item>
       <title>Carnival of Souls</title>
-      <description>Herk Harvey's classic sci-fi/horror film.</description>
-      <media:content url="https://archive.org/details/carnival-of-souls-pnm" type="video/mp4">
-        <media:thumbnail url="https://www.amazon.com/dp/B00006RCLQ?lv=shuf&channelId=500&plpRedirect=mhFallback" />
+      <description>Friedrich Wilhelm Murnau's classic sci-fi/horror film.</description>
+      <media:content url="https://commons.wikimedia.org/wiki/File:Nosferatu_(1922,_English_titles_1947).webm">
+        <media:thumbnail url="https://commons.wikimedia.org/wiki/File:Wismar_Markt_Nosferatu_01.jpg#/media/File:Wismar_Markt_Nosferatu_01.jpg" />
       </media:content>
     </item>
 
