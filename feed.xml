@@ -9,14 +9,14 @@
       <title>Night of the Living Dead (1968)</title>
       <description>Classic public domain horror film.</description>
       <media:content url="https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_iPhone_512kb.mp4" type="video/mp4" />
-      <media:thumbnail url="pkg:/images/notld_poster.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/tomey265/roku-feed/refs/heads/main/notld_poster.jpg" />
     </item>
 
     <item>
       <title>Plan 9 from Outer Space (1959)</title>
       <description>Ed Wood's cult classic sci-fi/horror film.</description>
       <media:content url="https://archive.org/download/plan-9-from-outer-space/plan-9-from-outer-space.mp4" type="video/mp4" />
-      <media:thumbnail url="pkg:/images/plan9_poster.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/tomey265/roku-feed/refs/heads/main/plan9_poster.jpg" />
     </item>
 
   </channel>
