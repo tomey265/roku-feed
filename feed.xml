@@ -16,8 +16,9 @@
     <item>
       <title>Plan 9 from Outer Space (1959)</title>
       <description>Ed Wood's cult classic sci-fi/horror film.</description>
-      <media:content url="https://archive.org/download/plan-9-from-outer-space/plan-9-from-outer-space.mp4" type="video/mp4" />
-      <media:thumbnail url="https://raw.githubusercontent.com/tomey265/roku-feed/refs/heads/main/plan9_poster.jpg" />
+      <media:content url="https://archive.org/download/plan-9-from-outer-space/plan-9-from-outer-space.mp4" type="video/mp4">
+        <media:thumbnail url="https://raw.githubusercontent.com/tomey265/roku-feed/refs/heads/main/plan9_poster.jpg" />
+      </media:content>
     </item>
 
   </channel>
