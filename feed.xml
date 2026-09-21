@@ -8,8 +8,9 @@
     <item>
       <title>Night of the Living Dead (1968)</title>
       <description>Classic public domain horror film.</description>
-      <media:content url="https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_iPhone_512kb.mp4" type="video/mp4" />
-      <media:thumbnail url="https://raw.githubusercontent.com/tomey265/roku-feed/refs/heads/main/notld_poster.jpg" />
+      <media:content url="https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_iPhone_512kb.mp4" type="video/mp4">
+        <media:thumbnail url="https://raw.githubusercontent.com/tomey265/roku-feed/refs/heads/main/notld_poster.jpg" />
+      </media:content>
     </item>
 
     <item>
