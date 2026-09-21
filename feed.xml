@@ -21,5 +21,21 @@
       </media:content>
     </item>
 
+    <item>
+      <title>The Birds(1963)</title>
+      <description>Alfred Hitchcock's classic sci-fi/horror film.</description>
+      <media:content url="https://archive.org/details/139-the-birds-1963-19th-june-2006/139-The+Birds+(1963)+19th+June+2006.mp4" type="video/mp4">
+        <media:thumbnail url="https://www.imdb.com/title/tt0056869/mediaviewer/rm817831681/?ref_=ttmi_mi_5_3" />
+      </media:content>
+    </item>
+
+    <item>
+      <title>Plan 9 from Outer Space (1959)</title>
+      <description>Ed Wood's cult classic sci-fi/horror film.</description>
+      <media:content url="https://archive.org/download/plan-9-from-outer-space/plan-9-from-outer-space.mp4" type="video/mp4">
+        <media:thumbnail url="https://raw.githubusercontent.com/tomey265/roku-feed/refs/heads/main/plan9_poster.jpg" />
+      </media:content>
+    </item>
+
   </channel>
 </rss>
