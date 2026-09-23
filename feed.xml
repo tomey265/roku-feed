@@ -21,21 +21,13 @@
       </media:content>
     </item>
 
-    <item>
-      <title>Nosferatu</title>
-      <description>Friedrich Wilhelm Murnau's classic sci-fi/horror film.</description>
-      <media:content url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Wismar_Markt_Nosferatu_01.jpg/960px-Wismar_Markt_Nosferatu_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail">
-        <media:thumbnail url="https://commons.wikimedia.org/wiki/File:Nosferatu_Doorway_Frame.webp" />
-      </media:content>
-    </item>
-
-    <item>
-      <title>Plan 9 from Outer Space (1959)</title>
-      <description>Ed Wood's cult classic sci-fi/horror film.</description>
-      <media:content url="https://archive.org/download/plan-9-from-outer-space/plan-9-from-outer-space.mp4" type="video/mp4">
-        <media:thumbnail url="https://raw.githubusercontent.com/tomey265/roku-feed/refs/heads/main/plan9_poster.jpg" />
-      </media:content>
-    </item>
+     <item>
+            <title>Doctor in Industry (Part I)</title>
+            <description>Old Timey Government Educational PSA</description>
+            <media:content url="https://archive.org/download/Doctorin1946/Doctorin1946_512kb.mp4" type="video/mp4">
+                <media:thumbnail url="https://archive.org/download/Doctorin1946/__ia_thumb.jpg" />
+            </media:content>
+     </item>
 
   </channel>
 </rss>
