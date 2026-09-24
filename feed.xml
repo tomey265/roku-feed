@@ -29,5 +29,13 @@
        </media:content>
      </item>
 
+      <item>
+       <title>Doctor in Industry (Part I)</title>
+       <description>Old Timey Government Educational PSA</description>
+       <media:content url="https://archive.org/download/The_House_On_Haunted_Hill/The_House_On_Haunted_Hill_512kb.mp4" type="video/mp4">
+         <media:thumbnail url="https://archive.org/download/The_House_On_Haunted_Hill/__ia_thumb.jpg" />
+       </media:content>
+     </item>
+    
   </channel>
 </rss>
